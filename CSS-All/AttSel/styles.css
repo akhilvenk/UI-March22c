@@ -1,10 +1,15 @@
 a{
     background-color: red;
 }
+
+.alia{
+    background-color: yellow;
+}
+
 a[target]{
     background-color: yellow;
 }
 
 *{
-    background-color: aqua;
+    font-family:cursive
 }
