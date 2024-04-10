@@ -1,0 +1,18 @@
+Step 1: collect images
+
+https://www.pexels.com/search/technology/
+
+Step 2: Carousel bootstrap component code
+
+Step 3: add required plugin cdn links
+        bootstrap.css
+        bootstrap.js
+        popper.js
+        jquery.js
+step 4: add jquery code snipper - to slide your images
+
+    <script>
+        $('.carousel').carousel({
+            interval: 2000
+        })
+      </script>
